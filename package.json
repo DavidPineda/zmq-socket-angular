@@ -1,0 +1,25 @@
+{
+  "name": "zmq-socket-angular",
+  "version": "1.0.0",
+  "description": "Realtime in Angular with SocketIO and ZMQ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidPineda/zmq-socket-angular.git"
+  },
+  "author": "David Pineda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidPineda/zmq-socket-angular/issues"
+  },
+  "homepage": "https://github.com/DavidPineda/zmq-socket-angular#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3",
+    "zmq": "^2.15.3"
+  }
+}
